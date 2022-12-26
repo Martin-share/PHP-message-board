@@ -1,0 +1,64 @@
+[2022-12-23 11:55:07.742920]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => 2311415873@qq.com
+    [password] => rootroot123
+)
+
+---------------------------------------------
+
+[2022-12-23 11:55:08.697196]	/login.php
+[GET 参数]	Array
+(
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+
+[2022-12-23 11:55:09.436774]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => 2311415873@qq.com
+    [password] => rootroot123
+)
+
+---------------------------------------------
+
+[2022-12-23 11:55:51.872179]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => 2311415873@qq.com
+    [password] => rootroot123
+)
+
+---------------------------------------------
+
+[2022-12-23 11:55:53.695016]	/index.php
+[GET 参数]	Array
+(
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+
