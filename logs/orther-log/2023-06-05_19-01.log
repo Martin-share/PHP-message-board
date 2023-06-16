@@ -1,0 +1,28 @@
+[2023-06-05 19:01:50.881101]	/?content=111111111111&token2=047c0af8e8471345b7947805548aa952285eb1d278bb7e85f7ef1b60cd59029f&submitBtn=
+[GET 参数]	Array
+(
+    [content] => 111111111111
+    [token2] => 047c0af8e8471345b7947805548aa952285eb1d278bb7e85f7ef1b60cd59029f
+    [submitBtn] => 
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+
+[2023-06-05 19:01:57.596641]	/?content=1111111111111%5B&token2=2edc9e455d3e1138bef72470c6e9a742dae9e2e48b078a991c63528ad55a227d&submitBtn=
+[GET 参数]	Array
+(
+    [content] => 1111111111111[
+    [token2] => 2edc9e455d3e1138bef72470c6e9a742dae9e2e48b078a991c63528ad55a227d
+    [submitBtn] => 
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+

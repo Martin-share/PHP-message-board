@@ -1,0 +1,75 @@
+body {
+    /* background: url("/static/img/zhuan.png"); */
+    background: url("/static/img/background.jpg");
+    /* background-color: black; */
+}
+
+
+.media .media-body{
+    /* border-bottom: 1px solid #e4e4e4; */
+    /* # 下划线 */
+    border-bottom: 1px solid black;
+
+}
+.media.second{
+    padding-bottom: 16px;
+}
+/*回复不要出现横线*/
+.media .media-body.second{
+    border-bottom: none;
+    padding-bottom: 8px;
+}
+
+/*留言者头像*/
+.media .media-object {
+    width: 64px;
+    height: 64px;
+}
+
+.media-body .secondary {
+    font-size: 1.4rem;
+    width: 100%;
+}
+
+/*留言者*/
+.media-body .nickname {
+    font-weight: bold;
+    font-size: 1.8rem;
+}
+
+/*留言者个性签名*/
+.media-body .summary {
+    padding-left: 8px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: black;
+}
+
+/*留言操作*/
+.media-body .operate {
+    display: flex;
+    justify-content: flex-end;
+    align-content: end;
+}
+
+
+.media-body > p {
+    text-indent: 2.8rem;
+}
+
+
+/*辅助样式*/
+.flex-center {
+    display: flex;
+    justify-content: center;
+}
+
+th[class=pagination] {
+    padding: 0 16px;
+    padding-top: 6px;
+}
+
+table .pagination {
+    margin: 0;
+}

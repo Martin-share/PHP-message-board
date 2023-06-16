@@ -1,0 +1,56 @@
+[2023-06-05 19:03:17.827729]	/?content=123123123&token2=bade95fd65018350b6f935f9e8e8d61219bf1241647a1b541cdde362a36ca052&submitBtn=
+[GET 参数]	Array
+(
+    [content] => 123123123
+    [token2] => bade95fd65018350b6f935f9e8e8d61219bf1241647a1b541cdde362a36ca052
+    [submitBtn] => 
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+
+[2023-06-05 19:03:22.230720]	/?content=123123123&token2=bade95fd65018350b6f935f9e8e8d61219bf1241647a1b541cdde362a36ca052&submitBtn=
+[GET 参数]	Array
+(
+    [content] => 123123123
+    [token2] => bade95fd65018350b6f935f9e8e8d61219bf1241647a1b541cdde362a36ca052
+    [submitBtn] => 
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+
+[2023-06-05 19:03:29.597182]	/?content=123123123&token2=bade95fd65018350b6f935f9e8e8d61219bf1241647a1b541cdde362a36ca052&submitBtn=
+[GET 参数]	Array
+(
+    [content] => 123123123
+    [token2] => bade95fd65018350b6f935f9e8e8d61219bf1241647a1b541cdde362a36ca052
+    [submitBtn] => 
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+
+[2023-06-05 19:03:47.812801]	/?content=123123123&token2=bade95fd65018350b6f935f9e8e8d61219bf1241647a1b541cdde362a36ca052&submitBtn=
+[GET 参数]	Array
+(
+    [content] => 123123123
+    [token2] => bade95fd65018350b6f935f9e8e8d61219bf1241647a1b541cdde362a36ca052
+    [submitBtn] => 
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+

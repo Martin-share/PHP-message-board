@@ -1,0 +1,89 @@
+[2023-06-14 10:51:03.303985]	/login.php
+[GET 参数]	Array
+(
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+
+[2023-06-14 10:51:10.438645]	/reg.php
+[GET 参数]	Array
+(
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+
+[2023-06-14 10:51:25.248435]	/reg.php?action=reg
+[GET 参数]	Array
+(
+    [action] => reg
+)
+
+[POST 参数]	Array
+(
+    [nickname] => rootroot5
+    [password] => rootroot5
+    [email] => rootroot5@qq.com
+    [qq] => 1300654007
+    [sex] => 2
+)
+
+---------------------------------------------
+
+[2023-06-14 10:51:27.079720]	/login.php
+[GET 参数]	Array
+(
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+
+[2023-06-14 10:51:38.470962]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot5@qq.com
+    [password] => rootroot5@qq.com
+)
+
+---------------------------------------------
+
+[2023-06-14 10:51:44.908670]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot5@qq.com
+    [password] => rootroot5
+)
+
+---------------------------------------------
+
+[2023-06-14 10:51:46.739169]	/index.php
+[GET 参数]	Array
+(
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+

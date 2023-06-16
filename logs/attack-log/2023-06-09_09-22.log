@@ -1,0 +1,14 @@
+[2023-06-09 09:22:45.391015]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => 2311415873@qq.com
+    [password] => rootroot123
+)
+
+---------------------------------------------
+

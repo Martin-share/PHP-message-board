@@ -1,0 +1,347 @@
+[2023-06-05 19:22:03.853446]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:05.469345]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:05.907454]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:06.070266]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:06.252950]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:06.472829]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:06.676624]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:06.874554]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:07.103161]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:07.303523]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:07.488130]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:07.767929]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:08.134946]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:08.323399]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:08.518674]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:08.710028]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:10.119442]	/login.php
+[GET 参数]	Array
+(
+)
+
+[POST 参数]	Array
+(
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:12.307223]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aaa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:12.976930]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aaa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:24.127299]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aaa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:24.619137]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aaa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:24.892431]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aaa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:25.065201]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aaa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:25.242377]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aaa
+)
+
+---------------------------------------------
+
+[2023-06-05 19:22:25.422817]	/login.php?action=login
+[GET 参数]	Array
+(
+    [action] => login
+)
+
+[POST 参数]	Array
+(
+    [account] => rootroot1@qq.com
+    [password] => rootroot1aaa
+)
+
+---------------------------------------------
+
